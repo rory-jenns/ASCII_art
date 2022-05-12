@@ -73,11 +73,15 @@ To solve this my initial solution is to reduce the image size in photo editing s
                                                   
                                                   
 ```
-
-It works! No artistic skill required.  
-**Sub-optimal parts**
+#### How do I feel?
+It works! No artistic skill required.   
+#### Sub-optimal parts   
 However, points I will say is that the aspect ratio is not preserved and font of constant width is required to make the image look decent.  
-**Ways to Improve**
+
+## Closing Remarks and Ways to Improve
+Main goal was accomplished and this was a fun thing to do for an afternoon.
+
+**Possible Improvements**
  - Could draw the characters on a screen in the correct postion, rather than print text
  - Work with higher Contrast Photos, or edit photos to be higher contrast
  - Fiddle with the "order of brightness" ASCII characters
