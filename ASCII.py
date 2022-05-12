@@ -8,7 +8,7 @@ OUTPUT_FILE = "ascii_cafe.txt"
 ascii = "  .,-:;+@&H###$"
 size_of_ascii = len(ascii)
 
-pic = plt.imread("INPUT_FILES"+INPUT_FILE)
+pic = plt.imread("INPUT_FILES/"+INPUT_FILE)
 
 pic = np.dot(pic[...,:3], [0.2989, 0.5870, 0.1140])
 
