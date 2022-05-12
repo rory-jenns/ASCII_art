@@ -79,7 +79,9 @@ It works! No artistic skill required.
 However, points I will say is that the aspect ratio is not preserved and font of constant width is required to make the image look decent.  
 
 ## Closing Remarks and Ways to Improve
-Main goal was accomplished and this was a fun thing to do for an afternoon.
+Main goal was accomplished and this was a fun thing to do for an afternoon and marks the start of me using git repositories for personal use.
+As an added Bonus, I get to look at it in my code preview of the report :)  
+<img src="./OUTPUT_FILES/VS Code Preview.png" alt="Alone Cafe low res" width="250" height="250"/>
 
 **Possible Improvements**
  - Could draw the characters on a screen in the correct postion, rather than print text
