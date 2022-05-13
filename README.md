@@ -1,2 +1,5 @@
 # ASCII_art
-READ THE [REPORT](./Initial_Report.md)
+READ THE [INITIAL REPORT](./Initial_Report.md)
+
+NEW FEATURE:  
+Use through [COMMAND LINE](./CommandLine.md)
