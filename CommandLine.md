@@ -1,5 +1,4 @@
-# NEW FEATURE
-### Run on Command Line
+# NEW FEATURE: Running from Command Line
 
 ## Why?
 Changing which file to change has been a real pain!  
@@ -8,8 +7,10 @@ Calling the function through the terminal and declaring files from there makes t
 ## Demonstration
 
 <img src="./INPUT_FILES/puppy.png" alt="Corgi looking into camera" width="250" height="250"/>
-<img src="./Assets/cmd_example.png" alt="command line"/>
-```                                     ...           -::          
+<img src="./Assets/cmd_example.png" alt="command line"/>  
+
+```-
+                                     ...           -::          
                             ,---::::::::--,,    ,::;;+@@        
                          ,,--:;;;;;-,,,.:::-,,,,-:;++@@@+       
          :---,,,        .,--:.,           .-:--:;, +&:@@+:      
@@ -92,3 +93,7 @@ This will make it that the original `ASCII.py` will still run the same if it is 
 
 #### Error handling
 Returns an error for an incorrect input path.
+
+## Conclusion
+This is much more convenient so I will likely follow this in future.  
+I used to think the terminal was too complicated or not worth the time to setup for small things like this, but spending more time out of code view helps me think about what I want with it rather than what I can currently do.
